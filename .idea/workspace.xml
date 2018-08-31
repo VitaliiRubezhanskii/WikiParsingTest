@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70d0f876-e8f9-44e7-91f5-e13f69c790a7" name="Default" comment="Initial commit">
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/Application.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/Application.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/CloudDTO.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/CloudDTO.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/FullDashboardDataDTO.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/FullDashboardDataDTO.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/User.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/User.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/UserPaginationDTO.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/entity/UserPaginationDTO.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/repository/PaymentEntityRepository.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/repository/PaymentEntityRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/repository/UserRepository.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/admin/AdminController.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/admin/AdminController.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/superAdmin/SAdminController.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/superAdmin/SAdminController.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/CloudPaymentController.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/CloudPaymentController.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/DashboardController.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/DashboardController.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/YandexPayController.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/rest/user/YandexPayController.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/CustomSecuritySadminConfig.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterAdmin.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterAdmin.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterModerator.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterModerator.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterOrganisation.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterOrganisation.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterSAdmin.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/security/TokenAuthenticationFilterSAdmin.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/dashboard/DashboardService.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/dashboard/DashboardService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/payment/CloudPaymentService.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/payment/CloudPaymentService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/rate/RateService.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/rate/RateService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/user/RegistrationService.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/user/RegistrationService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/user/UserService.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/user/UserService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/validator/OrderValidate.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/service/validator/OrderValidate.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/util/FixerIoExchangeRatesUtil.java" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/util/UserAdvancedSearcher.java" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/java/escort/util/UserAdvancedSearcher.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/resources/application.properties" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/Dating_App-sexurity_fix_v2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/api-automation" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/api-automation2" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/api-automation3" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/be-dashboards-service" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/be-modules" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/bemodules" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/benrevo-admin-service" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/common-data-lib" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/core-application-service" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/data-persistance-lib" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/mvc-exceptions" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/mvc-exceptions" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/spring_cloud_microservices_practice_2" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/spring_cloud_microservices_practice_2" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/Educational/sprinqrestwithajax" beforeDir="false" afterPath="$USER_HOME$/Documents/Educational/sprinqrestwithajax" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WikipediaParser" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WikipediaParser" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ParserApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/ParserApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParsingController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/controller/ParsingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlTags.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/model/HtmlTags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParsingService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/service/ParsingService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="11" column="61" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ParsingServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/service/ParsingServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlParsingException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/exceptions/HtmlParsingException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RelativesModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/model/RelativesModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WikipediaParser" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="WikipediaParser" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'WikipediaParser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'WikipediaParser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'WikipediaParser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'WikipediaParser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6142838140000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2462141973" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2411516725" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/dece1d0f12fe88e696ea11656d4595825ab61fc7/spring-boot-gradle-plugin-2.0.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.4.RELEASE/b18a052691327096ba583b11d5fc052123500db3/spring-boot-gradle-plugin-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/75fc6606e4fd8caa25ed1def196005d8668f00f3/spring-boot-loader-tools-2.0.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.4.RELEASE/24a1d9eac0090e12d20678cfbf7299d81d63ea7/spring-boot-loader-tools-2.0.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/d6c42859b24b62034b2a5e0db5ea12c688493d48/dependency-management-plugin-1.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/7b18320d668ab080758bf5383d6d8fcf750babce/commons-compress-1.14.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/a85fa9dfe4cb9c643ca3775279c8a1b50cd9e0b3/spring-core-5.0.8.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.0.8.RELEASE/dc39c49e3246cdf73d3786ac41119140aed3fa08/spring-core-5.0.8.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/b2d3223c5aa039d4046c8664b9a062e99b2d29fe/spring-jcl-5.0.8.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.0.8.RELEASE/a1fa8fb560fb252321776e16bc9ac8201af4ef5e/spring-jcl-5.0.8.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="WikipediaParser" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/01. Work Projects/slidepiper" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Piper/slidepiper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wikipedia/parser/controller/ParsingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wikipedia/parser/exceptions/HtmlParsingException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wikipedia/parser/service/ParsingServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wikipedia/parser/ParserApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/code-frame/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/generator/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/generator/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/helper-split-export-declaration/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/highlight/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/parser/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/template/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/traverse/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/traverse/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/traverse/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/types/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@types/jasmine/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@types/jasminewd2/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@types/q/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/@types/selenium-webdriver/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/base/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/base/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/chalk/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/cuint/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/del/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/del/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/di/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ent/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/execa/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/exit/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/jszip/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/less/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/less/test/import-module/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/lie/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/meow/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/qjobs/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/retry/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/ajax/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/operators/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/src/ajax/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/src/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/src/operators/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/src/testing/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/src/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/testing/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/rxjs/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/slide/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/when/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/wtf-8/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/src/main/front-end/node_modules/yn/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WikipediaParser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="WikipediaParser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WikipediaParser_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wikipedia.parser.ParserApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d0f876-e8f9-44e7-91f5-e13f69c790a7" name="Default" comment="" />
+      <created>1535709893659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535709893659</updated>
+      <workItem from="1535709939668" duration="1921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1921000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.14980653" side_tool="true" weight="0.65625" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32946378" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32903227" />
+      <window_info anchor="right" id="Database" order="7" weight="0.14040907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2498618" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4073276" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297414" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32903227" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8501935" weight="0.4344086" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49806523" weight="0.5851293" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3297414" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.498618" visible="true" weight="0.57758623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49784482" visible="true" weight="0.2111664" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32946378" />
+      <window_info id="Web" order="5" sideWeight="0.5021552" side_tool="true" weight="0.1779989" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.15920398" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010776" side_tool="true" weight="0.3355445" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Build Variants" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.33728448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498618" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/front-end/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/service/ParsingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/controller/ParsingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/model/HtmlTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/model/RelativesModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/exceptions/HtmlParsingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/service/ParsingServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wikipedia/parser/ParserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WikipediaParser</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

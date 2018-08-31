@@ -1,0 +1,69 @@
+
+
+        <div class="center-pill" >
+
+              <div class="form-group">
+                <label class="control-label col-sm-2" for="url"></label>
+                <div class="col-sm-10" >
+                  <p align="center">
+                    <input id="url" [(ngModel)]="url" class="form-control" id="url" placeholder="Paste your url" style="text-align: center" />
+                  </p>
+
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                  <p align="center">
+                    <button type="submit" class="btn btn-primary mb-2" (click)="doSearch()">Search</button>
+                  </p>
+
+                </div>
+        </div>
+        </div>
+
+
+
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Relative Group</th>
+          <th scope="col">URL</th>
+          <th scope="col">Person</th>
+          <th scope="col">Consistency Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr *ngFor="let parent of response.Parents">
+          <td>Parent</td>
+          <td>{{parent.url ? parent.url : "not found"}}</td>
+          <td>{{parent.name}}</td>
+          <td>{{parent.referenced ? 'Ok' : 'Not available'}}</td>
+        </tr>
+      </tbody>
+
+      <tbody>
+        <tr *ngFor="let child of response.Children">
+          <td>Child</td>
+          <td>{{child.url}}</td>
+          <td>{{child.name}}</td>
+          <td>{{child.referenced ? 'Ok' : 'Not available'}}</td>
+        </tr>
+      </tbody>
+
+      <tbody>
+        <tr *ngFor="let spouse of response['Spouse(s)']">
+          <td>Spouse</td>
+          <td>{{spouse.url}}</td>
+          <td>{{spouse.name}}</td>
+          <td>{{spouse.referenced ? 'Ok' : 'Not available'}}</td>
+        </tr>
+      </tbody>
+    </table>
+
+<ng-template #tmp>
+  Loading....
+</ng-template>
+
+

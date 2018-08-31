@@ -1,0 +1,9 @@
+spring:
+  relatives:
+    data: Personal details
+    group:
+      parents: Parents
+      children: Children
+      spouses: Spouse(s)
+  wikipedia:
+    url: https://en.wikipedia.org
